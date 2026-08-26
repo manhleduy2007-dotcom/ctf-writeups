@@ -1,7 +1,7 @@
 # [Information] - PicoCTF [2021]
 
-** Category: Forensics 
-** Difficulty: Easy 
+**Category:** Forensics 
+**Difficulty:** Easy 
 
 --- 
 
