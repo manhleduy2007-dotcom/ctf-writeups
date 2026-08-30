@@ -44,8 +44,10 @@ cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9
 
 This looks like Base64. Decoded it with:
 ```bash
-$ echo "cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9" | base64 -d
+echo "cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9" | base64 -d
 ```
+![alt text](image-1.png)
+
 ---
 
 ## Flag

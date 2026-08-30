@@ -48,7 +48,9 @@ What is the size of the Linux partition in the given disk image
 Length in sectors:
 ```
 
-So 002 stands for Linux partition and Length is 202752. That the answer for the Length in sectors. Enter it and receive the flag 
+So 002 stands for Linux partition and Length is 202752. That the answer for the Length in sectors. Enter it and receive the flag
+
+![alt text](image-1.png)
 
 
 ---

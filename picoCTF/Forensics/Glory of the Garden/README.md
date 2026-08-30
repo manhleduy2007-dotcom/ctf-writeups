@@ -16,6 +16,9 @@ Attachments: garden.jpg
 ## Analysis 
 
 The attachment is a JPEG file. My first approach was to check for readable strings embedded in the binary by using the `cat` for the raw content but most of the output was unreadable binary characters.
+
+![alt text](image-2.png)
+
 ---
 
 ## Solutions 
@@ -24,6 +27,7 @@ Use `strings + grep` to extract the human-readable text specifically start with 
 ```bash
 strings garden.jpg | grep -i "picoCTF" 
 ```
+
 
 ---
 

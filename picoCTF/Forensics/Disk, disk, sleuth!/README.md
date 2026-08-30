@@ -30,7 +30,7 @@ Easily realize that I can combine it with `grep` just like `strings`. Use the co
 ```bash
 srch_strings -a dds1-alpine.flag.img | grep -i "picoCTF" 
 ```
-
+![alt text](image-1.png)
 ---
 
 ## Flag!

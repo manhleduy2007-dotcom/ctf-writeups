@@ -15,7 +15,10 @@ Attachments: drawing.flag.svg
 
 ## Analysis 
 
-The attachment is a SVG file. Because is the SVG file so I use `cat` to read the data and realize many tspan split the characters of the flag. 
+The attachment is a SVG file. Because is the SVG file so I use `cat` to read the data and realize many tspan split the characters of the flag.
+ 
+![alt text](image-2.png)
+
 ---
 
 ## Solutions 
