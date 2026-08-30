@@ -12,6 +12,7 @@ CTF challenge writeups — solutions, tools used, and what I learned.
 | [Sleuthkit Intro](./picoCTF/Forensics/Sleuthkit%20Intro) | PicoCTF 2022 | Forensics | Medium |
 | [Disk, disk, sleuth!](./picoCTF/Forensics/Disk,%20disk,%20sleuth!) | PicoCTF 2021 | Forensics | Medium |
 | [Disk, disk, sleuth! II](./picoCTF/Forensics/Disk,%20disk,%20sleuth!%20II) | PicoCTF 2021 | Forensics | Medium |
+| [Sleuthkit Apprentice](./picoCTF/Forensics/Sleuthkit%20Apprentice) | PicoCTF 2022 | Forensics | Medium |
 
 ## Web Exploitation
 
