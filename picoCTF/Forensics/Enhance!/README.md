@@ -21,6 +21,7 @@ The attachment is a SVG file. Because is the SVG file so I use `cat` to read the
 ## Solutions 
 
 I decide to write an script in Python just to graft all of the characters in the tspan into a text. The order in the file may not be sequential, so sorting by ID is necessary to reconstruct the correct flag.
+
 ``` python
 import re
 data = open('drawing.flag.svg').read()
