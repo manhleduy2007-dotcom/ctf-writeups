@@ -13,6 +13,9 @@ CTF challenge writeups — solutions, tools used, and what I learned.
 | [Disk, disk, sleuth!](./picoCTF/Forensics/Disk,%20disk,%20sleuth!) | PicoCTF 2021 | Forensics | Medium |
 | [Disk, disk, sleuth! II](./picoCTF/Forensics/Disk,%20disk,%20sleuth!%20II) | PicoCTF 2021 | Forensics | Medium |
 | [Sleuthkit Apprentice](./picoCTF/Forensics/Sleuthkit%20Apprentice) | PicoCTF 2022 | Forensics | Medium |
+| [extensions](./picoCTF/Forensics/extensions) | PicoCTF 2019 | Forensics | Easy |
+| [St3g0](./picoCTF/Forensics/St3g0) | PicoCTF 2022 | Forensics | Medium |
+| [What Lies Within](./picoCTF/Forensics/What%20Lies%20Within) | PicoCTF 2019 | Forensics | Medium |
 
 ## Web Exploitation
 
