@@ -16,6 +16,7 @@ CTF challenge writeups — solutions, tools used, and what I learned.
 | [extensions](./picoCTF/Forensics/extensions) | PicoCTF 2019 | Forensics | Medium |
 | [St3g0](./picoCTF/Forensics/St3g0) | PicoCTF 2022 | Forensics | Medium |
 | [What Lies Within](./picoCTF/Forensics/What%20Lies%20Within) | PicoCTF 2019 | Forensics | Medium |
+| [Packets Primer](./picoCTF/Forensics/Packets%20Primer) | PicoCTF 2022 | Forensics | Medium |
 
 ## Web Exploitation
 
