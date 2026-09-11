@@ -22,3 +22,4 @@ CTF challenge writeups — solutions, tools used, and what I learned.
 
 | Challenge | CTF | Category | Difficulty |
 |-----------|-----|----------|------------|
+| [Insp3ct0r](./picoCTF/Web%20Exploitation%20/Insp3ct0r) | PicoCTF 2019 | Web Exploitation | Easy |
