@@ -24,9 +24,10 @@ CTF challenge writeups — solutions, tools used, and what I learned.
 | Challenge | CTF | Category | Difficulty |
 |-----------|-----|----------|------------|
 | [Insp3ct0r](./picoCTF/Web%20Exploitation%20/Insp3ct0r) | PicoCTF 2019 | Web Exploitation | Easy |
-| [Old Sessions](./picoCTF/Web%20Exploitation%20/Old%20Sessions) | PicoCTF 2026 | Web Exploitation | Easy |
 | [GET aHEAD](./picoCTF/Web%20Exploitation%20/GET%20aHEAD) | PicoCTF 2021 | Web Exploitation | Easy |
 | [Cookies](./picoCTF/Web%20Exploitation%20/Cookies) | PicoCTF 2021 | Web Exploitation | Easy |
 | [Scavenger Hunt](./picoCTF/Web%20Exploitation%20/Scavenger%20Hunt) | PicoCTF 2021 | Web Exploitation | Easy |
+| [Old Sessions](./picoCTF/Web%20Exploitation%20/Old%20Sessions) | PicoCTF 2026 | Web Exploitation | Easy |
 | [login](./picoCTF/Web%20Exploitation%20/login) | PicoCTF 2022 | Web Exploitation | Medium |
+| [Power Cookies](./picoCTF/Web%20Exploitation%20/Power%20Cookies) | PicoCTF 2022 | Web Exploitation | Medium |
 | [No FA](./picoCTF/Web%20Exploitation%20/No%20FA) | PicoCTF 2026 | Web Exploitation | Medium |
