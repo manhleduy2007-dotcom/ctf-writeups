@@ -32,3 +32,4 @@ CTF challenge writeups — solutions, tools used, and what I learned.
 | [Power Cookies](./picoCTF/Web%20Exploitation%20/Power%20Cookies) | PicoCTF 2022 | Web Exploitation | Medium |
 | [No FA](./picoCTF/Web%20Exploitation%20/No%20FA) | PicoCTF 2026 | Web Exploitation | Medium |
 | [Hashgates](./picoCTF/Web%20Exploitation%20/Hashgates) | PicoCTF 2026 | Web Exploitation | Medium |
+| [Most Cookies](./picoCTF/Web%20Exploitation%20/Most%20Cookies) | PicoCTF 2021 | Web Exploitation | Medium |
